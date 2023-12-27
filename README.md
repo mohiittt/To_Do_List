@@ -9,7 +9,7 @@ Your system should:
     i. Prompt you to input what the to do is, when it is due by and the priority (high, medium or low).  
     ii. Add the 'to do' to the list.
    
-3.'View' should give two options:
+ 3.'View' should give two options:
 
      i. View all - shows all 'to dos' with a pretty print.  
      ii. View priority - allows you to search for high, medium or low priority and only see matching tasks.
