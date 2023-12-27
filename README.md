@@ -11,5 +11,9 @@ ii. View priority - allows you to search for high, medium or low priority and on
 4. 'Edit' allows you to change any of the information within one of the 'to dos'.
 5. 'Remove' lets you completely remove a 'to do' when it is 'to done'.
 
+Tips -
+1. Use a separate subroutine for add, view, edit, and remove.
+2. Clear the console before viewing a new entry.
+3. Use a while True loop to call the subroutines and display the menu.
 
 
